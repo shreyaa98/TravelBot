@@ -1,2 +1,3 @@
 # TravelBot
-Wanderers scavenge for a new destination to explore and experience. Chatbots can offer information about various events like tourist attractions, entertainment, cafes, and adventures that take place in the selected city that travelers often seek.
+Wanderers scavenge for a new destination to explore and experience. Chatbots can offer information about various events like tourist attractions, entertainment, cafes, and adventures that take place in the selected city that travelers often seek. This rule-based (menu-based) chatbot presents users with a structured menu of options to choose from, basically, users go through pre-defined menus, allowing them to select options or navigate through the available choices. It is a  Python-based project designed to obtain inputs from the user through JavaScript and provide pre-defined answers that are mapped in SQL.
+
